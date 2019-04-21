@@ -69,22 +69,94 @@ class App extends Component {
   changePointer = str => {
     if (str === "first_name") {
       this.pointerFirstName = !this.pointerFirstName;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "last_name") {
       this.pointerLastName = !this.pointerLastName;
+      this.pointerFirstName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "company_name") {
       this.pointerCompanyName = !this.pointerCompanyName;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "city") {
       this.pointerCity = !this.pointerCity;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "state") {
       this.pointerState = !this.pointerState;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "zip") {
       this.pointerZip = !this.pointerZip;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "web") {
       this.pointerWeb = !this.pointerWeb;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerAge = true;
     } else if (str === "email") {
       this.pointerEmail = !this.pointerEmail;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerWeb = true;
+      this.pointerAge = true;
     } else if (str === "age") {
       this.pointerAge = !this.pointerAge;
+      this.pointerFirstName = true;
+      this.pointerLastName = true;
+      this.pointerCompanyName = true;
+      this.pointerCity = true;
+      this.pointerState = true;
+      this.pointerZip = true;
+      this.pointerEmail = true;
+      this.pointerWeb = true;
     }
   };
 
