@@ -18,7 +18,7 @@ class App extends Component {
 
   componentDidMount() {
     axios
-      .get("http://demo9197058.mockable.io/users")
+      .get("https://demo0734009.mockable.io/users")
       .then(response => {
         this.setState({
           allusers: response.data

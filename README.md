@@ -1,3 +1,5 @@
+Find the GitPages demo @ https://ad08star.github.io/ReactPagination/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
