@@ -36,3 +36,6 @@ th {
   cursor: pointer;
   white-space: nowrap;
 }
+td {
+  white-space: nowrap;
+}
