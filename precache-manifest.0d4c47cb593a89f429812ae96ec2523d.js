@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/ReactPagination/static/js/runtime~main.a4087b03.js"
   },
   {
-    "revision": "bcf053a1e078416562cb",
+    "revision": "a201525edd50059f2b03",
     "url": "/ReactPagination/static/js/main.9796786a.chunk.js"
   },
   {
@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/ReactPagination/static/js/2.8c839308.chunk.js"
   },
   {
-    "revision": "bcf053a1e078416562cb",
-    "url": "/ReactPagination/static/css/main.c852c482.chunk.css"
+    "revision": "a201525edd50059f2b03",
+    "url": "/ReactPagination/static/css/main.c0d8f925.chunk.css"
   },
   {
     "revision": "cbca904fe688fbd5bcfd",
     "url": "/ReactPagination/static/css/2.e3053e51.chunk.css"
   },
   {
-    "revision": "f24e17ace2083824db05696faf5e1eed",
+    "revision": "06bd70a6330592e3a1c27008710ced50",
     "url": "/ReactPagination/index.html"
   }
 ];
